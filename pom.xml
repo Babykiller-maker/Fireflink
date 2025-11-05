@@ -36,9 +36,7 @@
     <scope>test</scope>
 </dependency>
 	</dependencies>
-<<<<<<< Upstream, based on branch 'master' of https://github.com/Babykiller-maker/Fireflink.git
-</project>
-=======
+
 	
 	
 	<profiles>
@@ -67,4 +65,3 @@
 	
 	
 </project>
->>>>>>> edc2732 Batch file
